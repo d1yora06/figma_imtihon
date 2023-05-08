@@ -1,0 +1,231 @@
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@700&display=swap');
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  nav{
+    background: url(./img/bg.png);
+    height: 900px;
+  }
+
+  .first{
+    display: flex;
+    background-color: black;
+  }
+
+  .imtihon{
+    display: flex;
+  }
+
+
+
+.h1_type{
+    background: #FFFFFF;
+}
+
+.span{
+background: #F4683F;
+}
+
+.kazan{
+    font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 50px;
+}
+
+.katalog{
+    font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 50px;
+
+}
+
+.type1{
+    font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 40px;
+}
+
+.type2{
+    font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 40px;
+}
+
+.first{
+    display: flex;
+    background: transparent;
+}
+
+.text{
+    font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+margin-left: 40px;
+}
+
+
+.text1{
+    font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+margin-left: 40px;
+}
+
+.matn{
+    font-weight: 800;
+font-size: 60px;
+line-height: 140%;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+left: 40px;
+}
+
+.matn1{
+    font-weight: 600;
+font-size: 25px;
+line-height: 150%;
+color: #FFFFFF;
+}
+
+.basen{
+    font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+color: #FFFFFF;
+}
+
+.images2{
+    margin-left: 40px;
+}
+
+.images3{
+    margin-left: 40px;
+}
+
+
+.hotel{
+    font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+color: #FFFFFF;
+}
+
+.villa{
+    font-weight: 600;
+font-size: 18px;
+color: #FFFFFF;
+
+}
+
+.picture{
+    margin-top: 200px;
+    display: flex;
+}
+
+
+.textt{
+    font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+color: #333333;
+}
+
+.text_all{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #333333;
+}
+.texttt{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #333333;
+}
+
+.like{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #333333;
+}
+
+.star{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #333333;
+}
+
+.ikkinchi{
+    margin-top: 250px;
+}
+
+.images1{
+    margin-left: 50px;
+}
+
+.iconkalar{
+    margin-top: 150px;
+    display: flex;
+}
+
+.oooo{
+    margin-top: 100px;
+    display: flex;
+}
+
+/* .pictures{
+    margin-left: 50px;
+} */
+
+.pictures1{
+    margin-left: 50px;
+}
+
+.pictures2{
+    margin-left: 50px;
+}
+
+.big_text{
+    margin-top: 100px;
+}
+
+.youtube{
+    margin-left: 20px;
+}
+
+.insta{
+    margin-left: 5px;
+
+}
+
+.logo{
+    margin-left: 5px;
+}
+
+.watsapp{
+    margin-left: 5px;
+}
+
+.tg{
+    margin-left: 5px;
+}
+.textt1{
+
+}
+
